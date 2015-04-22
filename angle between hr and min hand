@@ -1,0 +1,8 @@
+Number of degrees per hour = 360 / 12 = 30
+Number of degrees per minute = 360 / 60 = 6
+
+Considering 0 degree at 12
+
+Angle for a given hour = hr * 30
+Angle for a given minute = min * 6
+Angle betweeb hour hand and min hand = Absolute value of ( (hr*30) - (min*6) )
